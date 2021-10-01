@@ -11,7 +11,18 @@ RAID_MAP = {
     "Terestian Illhoof": "Kharazhan",
     "The Curator": "Kharazhan",
     "Netherspite": "Kharazhan",
+    "Prince Malchezaar": "Kharazhan",
     "Gruul the Dragonkiller": "Gruul & Magtheridon's Lair",
     "High King Maulgar": "Gruul & Magtheridon's Lair",
-    "Magtheridon": "Gruul & Magtheridon's Lair"
+    "Magtheridon": "Gruul & Magtheridon's Lair",
+    "Hydross the Unstable": "Serpentshrine Cavern",
+    "The Lurker Below": "Serpentshrine Cavern",
+    "Leotheras the Blind": "Serpentshrine Cavern",
+    "Morogrim Tidewalker": "Serpentshrine Cavern",
+    "Lady Vashj": "Serpentshrine Cavern",
+    "Fathom-Lord Karathress": "Serpentshrine Cavern",
+    "Al'ar": "Tempest Keep: The Eye",
+    "Void Reaver": "Tempest Keep: The Eye",
+    "High Astromancer Solarian": "Tempest Keep: The Eye",
+    "Kael'thas Sunstrider ": "Tempest Keep: The Eye"
 }
